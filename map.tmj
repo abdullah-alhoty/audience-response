@@ -258,7 +258,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/watch?v=K16JN619PVA"
+                         "value":"https:\/\/www.youtube.com\/embed\/K16JN619PVA"
                         }, 
                         {
                          "name":"openWebsitePolicy",
