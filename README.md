@@ -1,3 +1,21 @@
+## Description
+
+In this GitHub you can find the records and materials of our work on ARS from the e-learning module.
+We want to create a rough overview of the topic of Audio Response Systems and lay the foundation for the coming semesters.
+It is also possible to access our WorkAdventure room, which we used for our final presentation
+
+## Sources
+
+The following resources were used in the creation of this project:
+
+| Resource | Description |
+| --- | --- |
+| https://workadventu.re/map-building-extra/tutorial.md | WorkAdventure Tutorial|
+| https://ceur-ws.org/Vol-2092/paper12.pdf | Carsten Ullrich, Martin Wessner (Eds.): Proceedings of DeLFI and GMW Workshops 2017 Chemnitz, Germany, September 5, 20 |
+| https://www.researchgate.net/profile/Karsten-Morisse/publication/257305620_Audience-Response-Systeme_fur_Peer-Assessments_in_Referateseminaren/links/0c960524d6f98baabc000000/Audience-Response-Systeme-fuer-Peer-Assessments-in-Referateseminaren.pdf | Ollermann, Frank, and Karsten Morisse. "Audience-Response-Systeme für Peer-Assessments in Referateseminaren." |
+| https://www.youtube.com/watch?v=K16JN619PVA | ARSnova-Demo |
+| https://www.youtube.com/watch?v=7w99nnALPCc&t=73s | Audience Response Systeme - Was ist das eigentlich? Und wofür braucht man sie? |
+
 # WorkAdventure Map Starter Kit
 
 ![map](./map.png)
