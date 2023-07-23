@@ -591,48 +591,6 @@
                  "y":14.0269116471316
                 }, 
                 {
-                 "height":221.333333333333,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"chatEnabled",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"jitsiTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to join the lecture without ARS"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":224,
-                 "x":65.3333333333333,
-                 "y":226.666666666667
-                }, 
-                {
                  "height":128,
                  "id":14,
                  "name":"silentZone",
@@ -713,6 +671,44 @@
                  "width":50.2727272727272,
                  "x":489.151515151516,
                  "y":96.3333333333333
+                }, 
+                {
+                 "height":210.666666666667,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":214.666666666667,
+                 "x":72,
+                 "y":236
+                }, 
+                {
+                 "height":0,
+                 "id":25,
+                 "name":"without_ars",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":3
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"src\/assets\/ElevenLabsRachel.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":0,
+                 "x":286.666666666667,
+                 "y":446.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -827,7 +823,7 @@
          "y":0
         }],
  "nextlayerid":77,
- "nextobjectid":24,
+ "nextobjectid":26,
  "orientation":"orthogonal",
  "properties":[
         {
