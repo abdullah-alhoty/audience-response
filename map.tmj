@@ -646,23 +646,6 @@
                  "y":544
                 }, 
                 {
-                 "height":128,
-                 "id":20,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":224,
-                 "x":97.3333333333334,
-                 "y":548
-                }, 
-                {
                  "height":224,
                  "id":16,
                  "name":"jitsiMeetingRoom",
