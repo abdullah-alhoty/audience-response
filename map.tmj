@@ -711,7 +711,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/github.com\/abdullah-alhoty\/audience-response\/blob\/master\/src\/assets\/eleven.mp3"
+                         "value":"src\/assets\/eleven.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
