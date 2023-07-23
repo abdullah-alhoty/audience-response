@@ -711,7 +711,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/ElevenLabsRachel.mp3"
+                         "value":"src\/assets\/elevenlabsrachel.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
