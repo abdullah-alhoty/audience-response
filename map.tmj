@@ -675,18 +675,7 @@
                 {
                  "height":210.666666666667,
                  "id":24,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":214.666666666667,
-                 "x":72,
-                 "y":236
-                }, 
-                {
-                 "height":0,
-                 "id":25,
-                 "name":"without_ars",
+                 "name":"withauot",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -706,9 +695,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":0,
-                 "x":286.666666666667,
-                 "y":446.666666666667
+                 "width":214.666666666667,
+                 "x":77.3333333333333,
+                 "y":233.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
